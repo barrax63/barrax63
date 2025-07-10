@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @barrax63
-- 👀 I’m currently forking and combining code snippets together and add my personal touch to create something nice. 🤓
-- 🌱 I’m interested in code written in JavaScript, PHP and SCSS/CSS.
-- 💞️ I’m looking to collaborate on web frontend developments and alike.
+- 👀 I’m combining code to create something nice. 🤓
+- 🌱 I’m interested in code written in Python, JavaScript, PHP and SCSS/CSS.
+- 💞️ I’m looking to collaborate on everything thats fun.
 - 📫 How to reach me: 📧 kx@cryshell.com
 
 <!---
