@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barrax63
 - 👀 I’m combining code to create something nice. 🤓
-- 🌱 I’m interested in code written in Python, JavaScript, PHP and SCSS/CSS.
+- 🐳 Currently interested in Docker projects!
 - 💞️ I’m looking to collaborate on everything thats fun.
 - 📫 How to reach me: 📧 kx@cryshell.com
 
